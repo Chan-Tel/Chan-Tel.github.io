@@ -17,7 +17,7 @@ show_sidebar: false        # show a sidebar instead of the usual header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html", title: "CV", icon: "CV"}
-  - {file: "README.md", title: "About me", icon: "About"}
+  - {file: "README.md", title: "About", icon: "About"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:chantelbawuah@gmail.com"}
