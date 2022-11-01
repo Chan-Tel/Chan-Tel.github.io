@@ -16,8 +16,8 @@ show_sidebar: false        # show a sidebar instead of the usual header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "CHANTEL BAWUUAH.pdf", title: "CV", icon: home}
-  - {title: "Projects", icon: url: "https://github.com/Chan-Tel/Sentiment-Analysis/blob/4b30cb165ad3827bd81cd4c70f054587d878e34e/sentiment-analysis-on-tripadvisor-hotel-reviews.ipynb"}
+  - {file: "CHANTEL BAWUAH.pdf", title: "CV"}
+  - {title: "Projects", url: "https://github.com/Chan-Tel/Sentiment-Analysis/blob/4b30cb165ad3827bd81cd4c70f054587d878e34e/sentiment-analysis-on-tripadvisor-hotel-reviews.ipynb"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:chantelbawuah@gmail.com"}
